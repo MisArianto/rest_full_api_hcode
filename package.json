@@ -1,0 +1,29 @@
+{
+  "name": "api-hcode",
+  "version": "1.0.0",
+  "description": "api hcode",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisArianto/rest_full_api_hcode.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "body-parser",
+    "mysql2",
+    "sequelize"
+  ],
+  "author": "Mis Arianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MisArianto/rest_full_api_hcode/issues"
+  },
+  "homepage": "https://github.com/MisArianto/rest_full_api_hcode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
